@@ -1,5 +1,13 @@
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hello%20World!&desc=Andreas%20is%20Here)
+
+
 # 💫 About Me:
-Hello World!
+ICT and IT Support Specialist with 8+ years of experience in technical troubleshooting,
+system maintenance, hardware/software repair, and desktop application development.
+Experienced in managing IT operations within medium–large organizations, supporting
+users, optimizing system stability, and building custom software solutions. Strong
+analytical skills, fast problem-solving ability, and proficient in multiple programming
+languages. 
 
 
 ## 🌐 Socials:
